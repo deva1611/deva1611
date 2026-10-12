@@ -1,20 +1,45 @@
-# 💫 About Me:
-MSc Embedded Systems & IC Design graduate from Liverpool John Moores University, actively seeking junior software or embedded engineer roles in the UK.<br><br>I build real things — a live web app used by UK residents, a real-time face recognition system in C++17, and a hardware CAN bus communication system using STM32 and Arduino on Linux.<br><br>Strong in Python, Flask, C, C++17, React and Linux. Experienced with Git workflows, unit testing, code reviews and Pull Requests.<br><br>🔭 I'm currently working on: Face Recognition Security System (C++17 + OpenCV)<br><br>👯 I'm looking to collaborate on: Embedded systems, firmware or Python/Flask projects<br><br>🤝 I'm looking for help with: Junior Software or Embedded Engineer roles in the UK<br><br>Right to Work in the UK ✅<br>Available immediately ✅<br><br>Portfolio: devendrareddy-keesara.netlify.app<br>GitHub: github.com/deva1611
+# Hi, I'm Devendra 👋
 
+**Embedded software engineer** with an MSc in Embedded Systems & IC Design from Liverpool John Moores University. I'm looking for junior **embedded, firmware and SoC validation** roles in the UK.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-reddy-keesara-a55912254
+I write C and C++ for microcontrollers and Linux, and I like the layer where software meets hardware: peripheral drivers, communication buses, real-time tasks, and the tests that prove they work.
 
-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdevendra8187@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deva1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deva1611&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deva1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔧 **Embedded:** STM32, ESP32 (ESP-IDF), FreeRTOS, CAN bus, UART / SPI / I2C, Embedded Linux
+- 💻 **Languages:** C, C++17, Python, VHDL
+- 🧪 **Tooling:** Git, CMake, GoogleTest, pytest, Docker, GitHub Actions CI
+- 📍 Based in Liverpool · Right to work in the UK · Available immediately
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deva1611&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [**smart-grid-anomaly-detector**](https://github.com/deva1611/smart-grid-anomaly-detector) | C++17 rolling z-score engine exposed to Python via pybind11, FastAPI service, PostgreSQL, Docker, GoogleTest and CI. [Live API](https://smart-grid-anomaly-detector.onrender.com/docs) |
+| [**face-recognition-security**](https://github.com/deva1611/face-recognition-security) | Real-time face detection and recognition in C++17 with OpenCV on Linux, built with CMake |
+| [**nhs-vs-private**](https://github.com/deva1611/nhs-vs-private) | Python and Flask decision tool with unit tests, CI and a live deployment. [Live demo](https://nhs-vs-private.onrender.com) |
+
+---
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E7D32?style=for-the-badge)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-555555?style=for-the-badge)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-reddy-keesara-a55912254)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdevendra8187@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://devendrareddy-keesara.netlify.app)
