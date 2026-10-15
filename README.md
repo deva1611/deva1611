@@ -15,8 +15,9 @@ I write C and C++ for microcontrollers and Linux, and I like the layer where sof
 
 | Project | What it shows |
 |---|---|
+| [**can-v2v-alert-system**](https://github.com/deva1611/can-v2v-alert-system) | Vehicle-to-vehicle hazard alerts over a 500 kbps CAN bus: STM32 Blue Pill sensor and alert nodes (I2C, UART, ADC), Arduino + MCP2515 CAN link, 4 sensors |
 | [**smart-grid-anomaly-detector**](https://github.com/deva1611/smart-grid-anomaly-detector) | C++17 rolling z-score engine exposed to Python via pybind11, FastAPI service, PostgreSQL, Docker, GoogleTest and CI. [Live API](https://smart-grid-anomaly-detector.onrender.com/docs) |
-| [**face-recognition-security**](https://github.com/deva1611/face-recognition-security) | Real-time face detection and recognition in C++17 with OpenCV on Linux, built with CMake |
+| [**face-recognition-security**](https://github.com/deva1611/face-recognition-security) | Real-time face recognition in C++17 with OpenCV on Linux. Sends Wi-Fi alerts to an ESP32 over raw POSIX sockets, built with CMake |
 | [**nhs-vs-private**](https://github.com/deva1611/nhs-vs-private) | Python and Flask decision tool with unit tests, CI and a live deployment. [Live demo](https://nhs-vs-private.onrender.com) |
 
 ---
